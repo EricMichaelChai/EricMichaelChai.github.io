@@ -18,8 +18,11 @@ Recently, I have been able to intern at [PSAV](http://company.psav.com/en/home/)
 </figure>
 
 ___
-
-
-<a href="http://company.psav.com/en/home/"><img src="http://mb.cision.com/Public/3370/9386076/bb1513c5b2b21bb6_800x800ar.jpg" style="width:33%;height:33%;"></a>
 <a href="https://cs.illinois.edu/"><img src="http://xiaodanzhang.com/images/cs_illinois_logo.jpg" style="width:33%;height:33%;"></a>
 <a href="http://www.fightingillini.com/"><img src="https://s-media-cache-ak0.pinimg.com/236x/e3/1d/9f/e31d9f85b685851eeb70d54ef4384619.jpg" style="width:16%;height:16%;"></a>
+<a href="http://company.psav.com/en/home/"><img src="http://mb.cision.com/Public/3370/9386076/bb1513c5b2b21bb6_800x800ar.jpg" style="width:33%;height:33%;"></a>
+<style>
+	img {
+		padding: 10px 20px 10px 20px;
+	}
+</style>
