@@ -13,7 +13,7 @@ Recently, I have been able to intern at [PSAV](http://company.psav.com/en/home/)
 
   
 
-<figure><a href="about"><p><img src="http://i.imgur.com/rvDQ7jE.jpg"></p></a>
+<figure><a href="https://www.bloomberg.com"><p><img src="http://i.imgur.com/rvDQ7jE.jpg"></p></a>
 <figcaption><div style = "text-align:center;">Bloomberg Office, NY</div></figcaption>
 </figure>
 
